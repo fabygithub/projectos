@@ -1,1 +1,59 @@
+https://www.youtube.com/watch?v=033bx8U8yV4&ab_channel=KevinRamirez
+
+buscador de negocios
+aplicar a nuestro negocio
+
+base de datos 
+productos de un negocio
+que se dedica a la venta de calzado
+
+en el buscador tiene
+el codigo de referencia del producto
+informacion del producto
+
+ejemplo
+
+codigo               A011
+producto             nike cr7
+costo unitario       450,000
+existencia           45
+ubicacion            bodega 2
+imagen               zapatillas.jpg
+
+expecciones : 
+buscar codigo que no existe 
+
+ejemplo:
+
+asd123
+no existe
+imagen x.jpg
+
+la herramienta se programa 1 sola vez
+
+hoja 1 en blanco
+hoja 2 : base de datos
+
+seleccionar
+combinar y centrar
+
+seleccionar toda la hoja
+formato
+ancho de la columna
+
+paso 2
+seleccionar todo el rango
+2 opciones: 
+
+insetar formato de tabla
+la tabla tiene encabezados
+
+
+
+
+
+
+
+
+
 
