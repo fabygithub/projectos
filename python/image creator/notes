@@ -1,12 +1,23 @@
 pip install pillow
-
 from PIL import Image
-img = Image.new("RGB",(300,100),"red")
-lay1 = Image.new("RGB",(100,100),"white")
-lay2 = Image.new("RGB",(200,100),"green")
-img.paste(lay1,(100,0))
-img.paste(lay2,(100,0))
-img.show()
+
+def flag(c,w=100,h=100):
+   c1,c2,c3 = c.split()
+   img = Image.new("RGB",(300,100),"red")
+   lay1 = Image.new("RGB",(100,100),"white")
+   lay2 = Image.new("RGB",(200,100),"green")
+   img.paste(lay1,(100,0))
+   img.paste(lay2,(100,0))
+   img.show()
+
+flag("red white green")
+flag("red blue green")
+
+
+
+
+
+
 
 
 
