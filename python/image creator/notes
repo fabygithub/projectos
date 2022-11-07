@@ -24,6 +24,17 @@ https://www.geeksforgeeks.org/python-pil-image-save-method/
 # save a image using extension
 im1 = im1.save("geeks.jpg")
 
+How do I Deploy a Python app to GitHub?
+Run your blog on GitHub Pages with Python
+
+python pelican
+https://www.youtube.com/watch?v=rLMUZfuDILc&ab_channel=TakisIssaris
+
+mkdir gipsite
+cd gipsite
+mkdir src
+python -m venv venv
+
 
 
 
