@@ -1,3 +1,5 @@
+06-11-2022
+
 pip install pillow
 from PIL import Image
 
@@ -12,6 +14,16 @@ def flag(c,w=100,h=100):
 
 flag("red white green")
 flag("red blue green")
+
+
+07-11-2022
+
+python image save
+https://www.geeksforgeeks.org/python-pil-image-save-method/
+
+# save a image using extension
+im1 = im1.save("geeks.jpg")
+
 
 
 
