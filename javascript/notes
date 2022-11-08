@@ -1,1 +1,12 @@
+07-11-2022
+
+metodos y funciones de una clase
+metodo definido sin parametros
+puede tener 1 o mas parametros
+de esa forma se le pasa informacion al metodo
+podemos reutilizar los metodos cuando queramos
+
+los metodos nos muestran el comportamiento de la clase
+los metodos definen las acciones que puede hacer un objeto
+el comportamiento se implementa dentro del metodo
 
