@@ -10,3 +10,24 @@ los metodos nos muestran el comportamiento de la clase
 los metodos definen las acciones que puede hacer un objeto
 el comportamiento se implementa dentro del metodo
 
+alura one pagina portafolio
+https://github.com/alura-challenges/challenge-one-portafolio-latam
+cv css
+How To Create an Online Resume - W3Schools
+https://codepen.io/DeepS/pen/DLyZam
+
+How to create a portfolio
+align li horizontally
+
+.menu__title{
+    display: inline ;
+    background-color: green;
+}
+
+
+4 sencillas maneras de alinear divs horizontalmente
+.menu__list,.menu__title{
+    background-color: rebeccapurple;   
+}
+
+https://www.galisteocantero.com/maneras-de-alinear-divs-horizontalmente/
