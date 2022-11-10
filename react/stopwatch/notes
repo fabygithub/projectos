@@ -18,10 +18,26 @@ serviceworker.js
 terminal:
 npm start
 
-index.js:
-delete //comments
+
 
 min 2
+
+index.js:
+delete //comments
+import serviceworker
+import index.css
+
+apps.js:
+delete: import logo.svg
+
+delete div class = app :  
+delete content
+
+<h1>Hello</h1>
+
+apps.css :
+delete all content
+
 
 
 
