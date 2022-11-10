@@ -1,0 +1,6 @@
+09-11-2022
+Full React Project - Stopwatch
+https://www.youtube.com/watch?v=qwKh4pH7KAk&ab_channel=CodingwithElias
+
+npm i -g create-react-app
+create-react-app stopwatch
