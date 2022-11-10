@@ -2,5 +2,29 @@
 Full React Project - Stopwatch
 https://www.youtube.com/watch?v=qwKh4pH7KAk&ab_channel=CodingwithElias
 
+min 1
+
+creation :
+
 npm i -g create-react-app
 create-react-app stopwatch
+
+delete : 
+apptest.js
+index.css
+logo.svg
+serviceworker.js
+
+terminal:
+npm start
+
+index.js:
+delete //comments
+
+min 2
+
+
+
+
+
+
