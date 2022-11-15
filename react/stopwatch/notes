@@ -39,6 +39,22 @@ apps.css :
 delete all content
 
 
+15-11-2022
+
+ver el funcionamiento del projecto
+ver el diseño
+
+un cronometro
+inicia
+se detiene
+y se resetea
+
+crear la aplicacion react usando cmd
+
+npm i -g create-react-app
+create-react-app stopwatch
+
+
 
 
 
