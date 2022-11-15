@@ -54,6 +54,15 @@ crear la aplicacion react usando cmd
 npm i -g create-react-app
 create-react-app stopwatch
 
+ahora se borran unos archivos que no se necesitan
+y se dejan solo
+
+App.css
+App.js
+index.js
+
+
+
 
 
 
