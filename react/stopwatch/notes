@@ -61,6 +61,57 @@ App.css
 App.js
 index.js
 
+arrastrar la carpeta en visual studio code
+en el terminal poner
+
+npm start
+se abre el localhost 
+
+http://localhost:3000/
+
+webpack compiled with 3 errors
+compilo con 3 errores porque no deben estar los archivos llamados
+
+eliminar el report web vitals
+eliminar el index.css
+en app.js eliminar el logo
+
+el mismo terminal abajo dice el error
+en app.js eliminar todo el header
+queda sin errores
+
+en app.css
+borrar todo
+
+en src crear una nueva carpeta
+Components
+
+y un nuevo archivo js
+
+DisplayComponents.js
+BtnComponents.js
+
+import React from "react";
+
+crear una funcion 
+
+DisplayComponent(){
+
+}
+
+cuando esta marcadas las letras en amarillo 
+significan que coinciden
+
+esos componentes hay que importarlos 
+a la funcion principal que es app.js
+
+import DisplayComponent from './Components/DisplayComponent';
+
+
+
+
+
+
 
 
 
