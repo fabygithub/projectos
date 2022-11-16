@@ -107,6 +107,27 @@ a la funcion principal que es app.js
 
 import DisplayComponent from './Components/DisplayComponent';
 
+16-11-2022
+
+importar los componentes necesarios a apps.js
+y no se necesitan los divs en el componente
+
+{usestate}
+h:0
+aca se despliega el tiempo
+
+inspeccionar la pagina
+react props
+
+props es como un objeto que captura las variables de app.js
+sertInterval() aca se coloca la velocidad de los numeros
+
+
+13:56
+
+
+
+
 
 
 
