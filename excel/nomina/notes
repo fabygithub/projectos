@@ -1,0 +1,7 @@
+calculo de nomina
+descuento 15% 
+=B5*15/100
+
+sueldo liquido = sueldo bruto - descuentos
+=B5-C5-D5
+
