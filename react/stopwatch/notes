@@ -123,10 +123,41 @@ props es como un objeto que captura las variables de app.js
 sertInterval() aca se coloca la velocidad de los numeros
 
 
+18-11-2022
+
 13:56
 
 cuando el visual studio code se cierra 
 se termina el localhost
+
+resumen de la estructura del proyecto :
+
+app.js : 
+
+const run(){
+ run();
+ setStatus();
+ setInterv();
+}
+
+
+const start(){
+}
+
+
+const stop(){
+  clearInterval();
+  setStatus();
+}
+
+
+
+not started :  0
+started : 1
+pause : 2
+
+
+
 
 
 
