@@ -156,8 +156,13 @@ not started :  0
 started : 1
 pause : 2
 
+const reset(){
+ setTime();
+}
 
+const resume(){
 
+}
 
 
 
