@@ -1,2 +1,42 @@
 18-11-2022
 https://www.youtube.com/results?search_query=how+to+make+nft+python
+EIP-721:Non-Fungible Token Standard
+opensea
+discovery 
+collect
+and sell extraordinary NFTs
+python 3.6
+vscode ide
+pillow
+what is generative art
+
+image.new()
+image.save()
+
+pip install pillow
+
+terminal : python generate_art.py
+
+Fatal Python error: initfsencoding: unable to load the file system codec
+ModuleNotFoundError: No module named 'encodings'
+
+No se encontró el comando generate_art.py, pero existe en la ubicación actual. 
+Windows PowerShell no carga comandos de la ubicación actual de forma predeterminada. Si confía en este 
+comando, escriba ".\generate_art.py". Vea "get-help about_Command_Precedence" para obtener información 
+más detallada.
+
+python ModuleNotFoundError: No module named 'encodings'
+PYTHON : ImportError: No module named 'encodings'
+
+C:\Users\USUARIO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Scripts\
+
+Remove PYTOHNHOME from your environment, log out and log in again.
+cmd python version not working
+
+
+
+
+
+
+
+
