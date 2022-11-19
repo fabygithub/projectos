@@ -33,8 +33,9 @@ C:\Users\USUARIO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.
 Remove PYTOHNHOME from your environment, log out and log in again.
 cmd python version not working
 
-
-
+habia un problema con el path
+instalar de nuevo sin el path
+'str' object is not callable
 
 
 
