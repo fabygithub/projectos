@@ -1,0 +1,29 @@
+20-11-2022
+github pages react
+solo se pueden alojar web estaticas
+
+npm install --save-dev gh-pages
+new repository
+create repository
+git remote add origin (url new repository)
+
+package.json
+paste a line
+"Homepage":"repository name",
+"dependencies" : {
+  "gt-pages" : 2.2.0
+}
+
+npm run build
+
+
+
+
+
+
+
+
+
+
+
+
