@@ -15,6 +15,26 @@ paste a line
 }
 
 npm run build
+npm run deploy
+
+"predeploy": "npm run build",
+"deploy" : "gh-pages -d build"
+
+ejecutamos y la aplicaciones ya esta corriendo
+nos vamos a configuracion
+y vemos a github pages
+
+npm run deploy (podemos hacer cambios en la pagina)
+hicimos los cambios de manera muy facil
+renderizado del lado del servidor
+
+
+
+
+
+
+
+
 
 
 
