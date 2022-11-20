@@ -35,6 +35,8 @@ deploy
 
 npm run build
 npm run deploy
+tiene que aparecer 
+published
 
 
 
