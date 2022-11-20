@@ -7,15 +7,14 @@ new repository
 create repository
 git remote add origin (url new repository)
 
-package.json
+package.json (sirve para describir un projecto)
 paste a line
-"Homepage":"repository name",
+"Homepage":"es la pagina de githun",
 "dependencies" : {
   "gt-pages" : 2.2.0
 }
 
-npm run build
-npm run deploy
+
 
 "predeploy": "npm run build",
 "deploy" : "gh-pages -d build"
@@ -27,6 +26,20 @@ y vemos a github pages
 npm run deploy (podemos hacer cambios en la pagina)
 hicimos los cambios de manera muy facil
 renderizado del lado del servidor
+
+en el package json 
+scripts:
+esta el run script
+deploy
+
+
+npm run build
+npm run deploy
+
+
+
+
+
 
 
 
