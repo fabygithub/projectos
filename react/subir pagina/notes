@@ -53,7 +53,13 @@ remoto origin already exists(significa que ya lo agregue)
 git push -u origin master
 la nueva rama se llama master
 
+npm i gh pages
+package json (agregrar pagina)
+git add .
+git commit -m "gh-pages added"
+git push
 
+npm run deploy
 
 
 
