@@ -40,10 +40,18 @@ published
 pagina creada vacia
 https://fabygithub.github.io/stopwatch/
 
+ahora hay que agregar contenido a la pagina
 
+git status
+git add . (asi se agregan todos los archivos)
+git commit -m "first commit"  (es como un boton guardar)
+git status (nothing to commit nada que agregar)
 
+ahora git remote (para agregar todo eso remotamente)
+remoto origin already exists(significa que ya lo agregue)
 
-
+git push -u origin master
+la nueva rama se llama master
 
 
 
