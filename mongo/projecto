@@ -1,0 +1,34 @@
+21-11-2022
+https://www.youtube.com/watch?v=YlrmGs6YHHY&t=311s&ab_channel=EduonixLearningSolutions
+
+document database (mongodb,couchdb,rethinkdb)
+key/value store(dynamo,riak)
+column database(cassandra,kdb,sybase)
+graph database (neo4j)
+caching system (redis,memcached)
+
+mongodb overview
+open source document database
+cross platform (windows,linux,mac)
+created in 2007 by 10gen [mongodb]
+used by craiglist ebay foursquare and much more
+se usa en:
+big data
+social networks
+cloud computing
+
+structurado
+sin estructura
+semi-estructurado 
+
+min 6
+
+
+
+
+
+
+
+
+
+
