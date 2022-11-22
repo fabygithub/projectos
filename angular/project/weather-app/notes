@@ -1,0 +1,28 @@
+21-11-2022
+https://www.youtube.com/watch?v=psZXU8PTAS8&ab_channel=SameerSaini
+
+ng new WeatherApp
+angular routing : Y
+stylesheet : css
+
+To disable this warning use "ng config -g cli.warnings.versionMismatc
+h false".
+
+Error: This command is not available when running the Angular CLI inside a workspace.
+
+problema con el angular cli
+https://bobbyhadz.com/blog/npm-command-not-found-ng
+
+https://stackoverflow.com/questions/57611447/your-global-angular-cli-version-is-greater-than-your-local-version-to-disable-t
+
+tambien puede ser un problema con el directorio
+
+min 1:15
+
+
+
+
+
+
+
+
