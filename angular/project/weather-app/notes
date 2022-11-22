@@ -19,6 +19,14 @@ tambien puede ser un problema con el directorio
 
 min 1:15
 
+cd .\WeatherApp
+code .
+ng serve -o
+app.component.hmtl
+
+en assests agregar las imagenes
+
+
 
 
 
