@@ -23,6 +23,28 @@ semi-estructurado
 
 min 6
 
+supports tb of data
+new development methods & technology
+
+document data model
+data stored in documents
+bson / json syntax
+values can contain strings,numbers,arrays,objects
+ObjectId,Null
+documents stored in collections
+
+{
+   _id:1
+   name: "Jhon Doe",
+   email : "jdoe@gmail.com",
+   
+   
+   
+   
+   
+   
+
+
 
 
 
