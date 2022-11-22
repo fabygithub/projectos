@@ -37,7 +37,24 @@ documents stored in collections
    _id:1
    name: "Jhon Doe",
    email : "jdoe@gmail.com",
-   
+   age : 34,
+   address:{
+         street:"5 school st",
+         city : "New York",
+         state : "NY",                  
+   },
+   memberships:["standard","super"]
+}
+
+install mongodb in ubuntu
+import the public key
+sudo apt-key adv ......
+terminal ubuntu
+insert code
+insert password
+sudo apt get install
+
+
    
    
    
