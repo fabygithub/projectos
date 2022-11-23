@@ -72,6 +72,10 @@ container{
 
 min 10
 
+../  = ver las carpetas de adelante
+../assets
+
+
 
 
 
