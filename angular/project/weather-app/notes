@@ -21,16 +21,56 @@ min 1:15
 
 cd .\WeatherApp
 code .
-ng serve -o
+ng serve -o  = iniciar el projecto
 app.component.hmtl
 
 en assests agregar las imagenes
 
 min 5
 
+static data structure
+get the life values from de api
+les than equal to 15
+if the temperature is <= 15 = cold
+if the temperatures is > 15 = hot
 
 
+style.css
+create root styles
 
+:root {
+   add colors
+   ejemplo : --blue-1: #3c429e;
+   --blue-1 : seria como una variable
+}
+
+*{
+  remove all the margins and paddings 
+  from all the elements
+}
+
+box sizing  = border box
+
+align-items: center;  = centrar en vertical
+ 
+.upper-data = significa que es una clase 
+su usara en el momento en que se muestran los datos
+ 
+ 
+.upper-data{
+  
+}
+
+half of the box
+
+upperdata esta dentro de container
+
+container{
+  upper-data{
+  }
+}
+
+min 10
 
 
 
