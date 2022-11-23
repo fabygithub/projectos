@@ -57,6 +57,46 @@ sudo apt get install
 
 min 10
 
+sudo service mongod start
+mongo
+show dbs
+admin 0gb
+local 0gb
+
+installing mongodb in mac osx
+install homebrew
+copy link
+call brew
+brew update
+
+install a mongodb
+brew install mongodb
+create a data directory
+sudo mkdir 
+passoword
+sudo chown
+mongod
+mongo
+
+windows
+descargar
+tiene una ruta de instalacion por defecto
+
+cd. = directorio actual
+cd.. = retroceder
+C:\Users>cd ..
+C:\>cd Program Files
+
+mongodb
+cd mongodb = no importa si escribe en minuscula lo encuentra igual
+
+min 15
+
+
+
+
+
+
 
    
    
