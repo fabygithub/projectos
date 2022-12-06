@@ -1,0 +1,84 @@
+06-12-2022
+Observe la ilustración. ¿Qué término identifica correctamente el tipo de dispositivo incluido en el área B?
+intermediario
+
+¿Qué tipo de dispositivo proporciona una conexión de Internet mediante el uso de una toma telefónica?
+modem dsl
+
+Un representante de ventas que viaja utiliza un teléfono celular para interactuar con la oficina 
+en el hogar y los clientes, realizar un seguimiento de las muestras, realizar llamadas de ventas, 
+registrar el kilometraje y cargar/descargar datos mientras se encuentra en el hotel. ¿Qué método 
+de conectividad a Internet sería el método preferido para utilizar en el dispositivo móvil debido a su bajo costo?
+
+wifi
+
+Un usuario esta configurando un punto de acceso inalámbrico y desea prevenir que algún vecino descubra su red. ¿Qué acción debería realizar el usuario?
+desabilitar ssid
+
+¿Cuáles son los tres pasos que deben realizarse para conectar manualmente un dispositivo Android o IOS a una red inalámbrica asegurada? (Elija tres opciones).
+tipo seguridad
+contraseña
+ssid
+
+Un turista viaja por el campo y necesita conectarse a internet desde un equipo portátil. Sin embargo, el equipo portátil solo tiene conexiones Wi-Fi y Ethernet. El turista tiene un teléfono inteligente con conectividad 3G/4G. ¿Qué puede hacer el turista para permitir que el equipo portátil se conecte a internet?
+anclaje de red
+
+Una empresa está contemplando la posibilidad de utilizar una red de cliente-servidor o una red entre pares. ¿Cuáles son tres características de una red entre pares? (Elija tres opciones).
+
+menor costo
+facil creacion
+administracion decentralizada
+
+¿Qué banda de RF inalámbrica utilizan los dispositivos IEEE 802.11b/g?
+2,4
+
+
+¿Cuáles son los dos métodos que se utilizan comúnmente en un dispositivo móvil para proporcionar conectividad a internet? (Elija dos opciones).
+datos moviles
+wi fi
+
+¿Cuál es una de las desventajas de implementar un modelo de red entre pares?
+falta administracion centralizada
+
+¿Qué información se agrega a la tabla de switches desde las tramas entrantes?
+mac origen
+puerto destino
+
+¿En cuál de estas capas del modelo OSI se agregaría una dirección lógica durante el encapsulamiento? 
+capa de red
+
+¿Qué tipo de modelo de red describe las funciones que deben completarse en una capa en particular, pero no especifica exactamente cómo debe funcionar cada protocolo?
+modelo de referencia
+
+¿Qué información examina y utiliza un conmutador Ethernet para armar su tabla de direcciones?
+mac destino
+
+Una empresa de instalación de cables está intentando convencer a un cliente de que utilice un cableado de fibra óptica en lugar de cables de cobre para un trabajo en particular. ¿Cuál es una de las ventajas de utilizar cableado de fibra óptica en comparación con el cableado de cobre
+es inmune
+
+¿Qué tecnología de codificación de datos se utiliza en los cables de cobre?
+pulsos electricos
+
+¿Cuál es la capa responsable de enrutar los mensajes en una interconexión de redes en el modelo TCP/IP?
+capa de red
+
+¿Cuáles son las dos capas del modelo OSI que tienen la misma funcionalidad que las dos capas del modelo TCP/IP?(Escoge dos.)
+fisica
+enlace de datos
+
+¿Qué hace un switch LAN de Cisco si recibe una trama entrante y la dirección MAC de destino no figura en la tabla de direcciones MAC?
+reenvia la trama
+
+¿Cuáles son dos características de la transmisión de multidifusión? (Elija dos opciones).
+mismo paquete
+multidifucion
+
+Cuando un host envía un paquete, ¿cómo determina si el destino del paquete está en la misma red local o en una red remota?
+
+¿Cuántos bits hay en una dirección IPv4?
+32
+
+lo otro seria buscar la alternativas
+
+
+
