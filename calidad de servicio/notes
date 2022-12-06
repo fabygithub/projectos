@@ -1,0 +1,31 @@
+05-12-2022
+matriz de riesgo
+Principales riesgos de las apps de rastreo
+La seguridad de los datos personales 
+puede verse comprometida
+Interceptar el tráfico 
+de una aplicación:
+¿Cuáles son los riesgos de la geolocalización?
+
+podría rastrear el dispositivo de una persona 
+correlacionando el dispositivo y sus respectivos 
+paquetes de señales de identificación.
+
+los usuarios pueden ser susceptibles de sufrir 
+ataques “man-in-the-middle”, que permitiría a un 
+cibercriminal interceptar todo el tráfico
+
+tráfico de datos entre el dispositivo y el servidor 
+de la aplicación si estas comunicaciones 
+no están correctamente cifradas.
+
+
+es importante que las aplicaciones de contacto realicen una autenticación 
+cuando la información se envíe a sus servidores, como por ejemplo 
+cuando un usuario envía su diagnóstico y registro de contactos.
+
+
+Sin la debida autorización, podría 
+ser posible inundar los servidores con informes sanitarios falsos, 
+lo que pondría en tela de juicio la fiabilidad de todo el sistema.
+
