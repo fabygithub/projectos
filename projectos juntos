@@ -12,8 +12,13 @@ angular app
 -
 
 react course 6
--html -css -js -js es6 -
-react app 
+-html -css -js -js es6 
+react app  7min
+-crear una app con el terminal
+-yarn start
+-http://localhost:3000/
+-en src nueva carpeta components
+
 
 portafolio html 10min
 -ver el diseño final -escribir el codigo -menu html -se crea un titulo -se crea los estilos
